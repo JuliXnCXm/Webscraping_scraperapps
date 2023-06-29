@@ -26,6 +26,7 @@ Title
   Run index.py
   ```
 - This project works using a json file filled with all expression of xpath , Selectors , etc... and .env file, that's why this project only shows how to build and handle a professional scraper for applications. 
+- Even if this approach was using by appium you could extract the endpoints of the for change the approach to "Attach API"
 
 ## Directory Hierarchy
 ```
@@ -39,6 +40,8 @@ Title
 |—— stringsResources.json
 ```
 ## Code Details
+
+  This project was built based on POO paradigm 
 ### Tested Platform
 - software
   ```
